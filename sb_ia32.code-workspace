@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "linux_nasm_progs/nasm_linux_ORG_CH9"
+		},
+		{
+			"path": "linux_nasm_progs/nasm_linux_ORG_CH10"
+		},
+		{
+			"path": "linux_nasm_progs/nasm_linux_ORG_CH11"
+		},
+		{
+			"path": "linux_nasm_progs/nasm_linux_ORG_CH12"
+		},
+		{
+			"path": "linux_nasm_progs/Linux_IOfiles"
+		},
+	],
+	"settings": {}
+}
