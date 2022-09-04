@@ -2,17 +2,22 @@
 
 ## Como rodar
 
-Para compilar:
+### Para compilar:
 ```
-nasm -f elf -o arquivo.o arquivo.asm
-```
-
-Para ligar:
-```
-ld -m elf_i386 -o arquivo arquivo.o
+nasm -f elf -o teste.o arquivo.asm
 ```
 
-Para usar o  gdb:
+### Para ligar:
+```
+ld -m elf_i386 -o teste teste.o
+```
+
+Se for feito uso do módulo io.mac, é importante incluí-lo.
+```
+ld -m elf_i386 -o teste teste.o io.o
+```
+
+### Para usar o  gdb:
 ```
 gbd arquivo
 ```
