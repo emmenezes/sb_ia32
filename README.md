@@ -64,7 +64,6 @@ display %r  // configura para mostrar o registrador r a cada passo
 ||Aula 16 - Slide 16||While usando loop|
 ||Aula 16 - Slide 20||Exemplo com break|
 ||Aula 16 - Slide 23||Exemplo com continue|
-|sum_func|Aula 17 - Slide 4|X|Exemplo com chamada de procedimento|
-||Aula 17 - Slide 10||Exemplo com procedimento passando parâmetros como registradores|
-||Aula 17 - Slide 18,19,20||Exemplo com procedimento passando parâmetros pela pilha|
+|soma_funcao|Aula 17 - Slide 4|X|Exemplo com chamada de procedimento|
+|soma_funcao_pilha|Aula 17 - Slide 18,19,20|X|Exemplo com procedimento passando parâmetros pela pilha|
 ||Aula 17 - Slide 29||Exemplo com fibonacci usando funções e pilhas|
