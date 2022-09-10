@@ -54,7 +54,6 @@ display %r  // configura para mostrar o registrador r a cada passo
 |   |calculadora|Faz uma calculadora que realiza operações de +-*/ simples entre dois operandos|
 |   |haikai|Editor de haikais, que são poesias de três frases. É possível reescrever cada linha feita, e quando estiver pronto, o haikai é impresso na tela|
 |   |cal_polinomial|Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
-|   |matrix_mult|Multiplicação de matrizes|
 
 ### Questões dos slides
 As questões podem ser encontradas na pasta [slides](./slides/)
@@ -64,6 +63,7 @@ As questões podem ser encontradas na pasta [slides](./slides/)
 |X  |[hello](./slides/hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
 |X  |[kangaroo](./slides/kangaroo.asm)|Aula 13 - Slide 24|Imprime KANGAROO e depois imprime kangaroo|
 |X  |[welcome](./slides/welcome.asm)|Aula 13 - Slide 25,26|Recebe nome e número n, imprime apresentação e n vezes a mensagem de boas-vindas|
+|   |[struct]()|Aula 14 - Slide 26,27,28,29|Usa estrutura de dados|
 |X  |[matrix](./slides/matrix.asm)|Aula 14 - Slide 35|Faz soma de duas matrizes|
 |X  |[iomac](./slides/iomac.asm)|Aula 15 - Slide 12|Execução básica com io.mac|
 |X  |[soma64bits](./slides/soma64bits.asm)|Aula 15 - Slide 42|Soma de 64 bits com registradores dde 32|
