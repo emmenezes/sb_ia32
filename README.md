@@ -37,18 +37,23 @@ c           // continue
 display %r  // configura para mostrar o registrador r a cada passo
 ```
 
-## Lista de Programas
+### Lista de questões
+### Questões simples
 
-|Arquivo|Feito|Função|
-|-------|-----|------|
-|numeros|X|Converte string para int um número de até 4 dígitos|
-|calculadora||Faz uma calculadora que realiza operações de +-*/ simples entre dois operandos|
-|haikai||Editor de haikais, que são poesias de três frases. É possível reescrever cada linha feita, e quando estiver pronto, o haikai é impresso na tela|
-|cal_polinomial||Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
-|string reversa|X|Programa que reverte uma string|
-|divisao|X|Exemplo simples de uso da função de idiv (divisão com sinal)|
-|carry|X|Exemplo do uso do jump condicional do carry com multiplicação|
-|matrix_mult||Multiplicação de matrizes|
+|   |Arquivo    |Função |
+|-  |-          |-      |
+|X  |[numeros](./simples/numeros.asm)|Converte string para int um número de até 4 dígitos|
+|X  |[string_reversa](./simples/string_reversa.asm)|Programa que reverte uma string, por [@gss214](https://github.com/gss214)|
+|X  |[divisao](./simples/divisao.asm)|Exemplo simples de uso da função de idiv (divisão com sinal)|
+|X  |[carry](./simples/carry.asm)|Exemplo do uso do jump condicional do carry com multiplicação|
+
+### Questões complexas
+|   |Arquivo    |Função |
+|-  |-          |-      |
+|   |calculadora|Faz uma calculadora que realiza operações de +-*/ simples entre dois operandos|
+|   |haikai|Editor de haikais, que são poesias de três frases. É possível reescrever cada linha feita, e quando estiver pronto, o haikai é impresso na tela|
+|   |cal_polinomial|Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
+|   |matrix_mult|Multiplicação de matrizes|
 
 ### Questões dos slides
 As questões podem ser encontradas na pasta [slides](./slides/)
