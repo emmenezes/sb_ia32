@@ -36,4 +36,4 @@ k:
 
     pop     eax
     pop     ebp
-    ret     10
+    ret     6
