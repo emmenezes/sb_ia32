@@ -50,6 +50,7 @@ display %r  // configura para mostrar o registrador r a cada passo
 ### Questões complexas
 |   |Arquivo    |Função |
 |-  |-          |-      |
+|X  |matrix_mult|Multiplicação de duas matrizes, 1x10 e 10x10, com uso de passagem de ponteiros para a função|
 |   |calculadora|Faz uma calculadora que realiza operações de +-*/ simples entre dois operandos|
 |   |haikai|Editor de haikais, que são poesias de três frases. É possível reescrever cada linha feita, e quando estiver pronto, o haikai é impresso na tela|
 |   |cal_polinomial|Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
