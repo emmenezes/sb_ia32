@@ -57,6 +57,11 @@ display %r  // configura para mostrar o registrador r a cada passo
 |   |haikai|Editor de haikais, que são poesias de três frases. É possível reescrever cada linha feita, e quando estiver pronto, o haikai é impresso na tela|
 |   |cal_polinomial|Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
 
+### Questões com arquivos
+|   |Arquivo    |Função |
+|-  |-          |-      |
+|X  |[cria_fecha](./arquivos/cria_fecha.asm)|Cria um arquivo chamado teste.txt e fecha|
+
 ### Questões dos slides
 As questões podem ser encontradas na pasta [slides](./slides/)
 
