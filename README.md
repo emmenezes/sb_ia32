@@ -58,6 +58,7 @@ display %r  // configura para mostrar o registrador r a cada passo
 |   |cal_polinomial|Calculadora de equações polinomiais, é inserido os coeficientes, e a calculadora mostra a equação e imprime o valor da equação para x = 0, x = 1, x = 2|
 
 ### Questões com arquivos
+Mais informações podem ser obtidas em [Arquivos](./doc/Arquivos.md)
 |   |Arquivo    |Função |
 |-  |-          |-      |
 |X  |[cria_fecha](./arquivos/cria_fecha.asm)|Cria um arquivo chamado teste.txt e fecha|
