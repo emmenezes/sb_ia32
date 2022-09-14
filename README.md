@@ -63,7 +63,7 @@ As questões podem ser encontradas na pasta [slides](./slides/)
 |X  |[hello](./slides/hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
 |X  |[kangaroo](./slides/kangaroo.asm)|Aula 13 - Slide 24|Imprime KANGAROO e depois imprime kangaroo|
 |X  |[welcome](./slides/welcome.asm)|Aula 13 - Slide 25,26|Recebe nome e número n, imprime apresentação e n vezes a mensagem de boas-vindas|
-|   |[struct]()|Aula 14 - Slide 26,27,28,29|Usa estrutura de dados|
+|X  |[struct](./slides/struct.asm)|Aula 14 - Slide 26,27,28,29|Usa estrutura de dados|
 |X  |[matrix](./slides/matrix.asm)|Aula 14 - Slide 35|Faz soma de duas matrizes|
 |X  |[iomac](./slides/iomac.asm)|Aula 15 - Slide 12|Execução básica com io.mac|
 |X  |[soma64bits](./slides/soma64bits.asm)|Aula 15 - Slide 42|Soma de 64 bits com registradores dde 32|
