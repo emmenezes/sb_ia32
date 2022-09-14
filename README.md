@@ -46,6 +46,7 @@ display %r  // configura para mostrar o registrador r a cada passo
 |X  |[string_reversa](./simples/string_reversa.asm)|Programa que reverte uma string, por [@gss214](https://github.com/gss214)|
 |X  |[divisao](./simples/divisao.asm)|Exemplo simples de uso da função de idiv (divisão com sinal)|
 |X  |[carry](./simples/carry.asm)|Exemplo do uso do jump condicional do carry com multiplicação|
+|X  |[multiplica_dez](./simples/multiplica_dez.asm)|Multiplica inteiro com dez com deslocamento e soma|
 
 ### Questões complexas
 |   |Arquivo    |Função |
