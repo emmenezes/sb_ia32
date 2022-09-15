@@ -7,7 +7,7 @@ global _start
 _start:
     mov eax, 8
     mov ebx, nome
-    mov ecx, 0644
+    mov ecx, 000100100100b
     int 80h
 
     mov ebx, eax
