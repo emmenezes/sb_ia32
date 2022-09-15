@@ -8,8 +8,8 @@
 
 %define code        0
 %define limit       4
-%define registered  4
-%define room        4
+%define registered  8
+%define room        12
 
 global _start
 
