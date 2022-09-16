@@ -1,6 +1,26 @@
 # Estudo de Assembly IA-32
 
-## Como rodar
+## Como rodar com makefile
+
+Compilar sem gdb:
+
+```console
+make file=diretorio/arquivo.asm
+```
+
+Ou
+
+```console
+make file=diretorio/arquivo.asm gdb=0
+```
+
+Compilar com gdb:
+
+```console
+make file=diretorio/arquivo.asm gdb=1
+```
+
+## Como rodar manualmente
 
 ### Para compilar:
 
@@ -23,7 +43,7 @@ ld -m elf_i386 -o teste teste.o io.o
 ### Para usar o  gdb:
 
 ```console
-gbd arquivo
+gdb arquivo
 ```
 
 Para usar o gdb, é importante de não esquecer de  adicionar labels para criar os breakpoints durante a execução pelo terminal.
