@@ -5,11 +5,11 @@ ifdef file
 else
 	@echo "Passe o arquivo como parametro: 'make file=test.asm'"
 endif
-ifndef gbd
+ifndef gdb
 	./teste
 else 
-ifeq ($(gbd), 1)
-	gbd teste
+ifeq ($(gdb), 1)
+	gdb teste
 else
 	./teste
 endif
